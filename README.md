@@ -16,7 +16,6 @@ This portfolio website is designed to present my work and skills in a profession
 
 ## Features
 
-- **Responsive Design**: The website is fully responsive and looks great on all devices (desktops, tablets, and mobiles).
 - **Interactive Elements**: JavaScript is used to enhance user interaction with dynamic elements.
 - **Project Gallery**: Showcases a collection of projects with descriptions and links.
 - **Contact Form**: Allows visitors to get in touch with me directly through the website.
